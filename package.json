@@ -1,0 +1,15 @@
+{
+  "name": "ion-chat-server",
+  "version": "1.0.0",
+  "description": "ion chat server with socket io",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "socket.io": "^2.0.3"
+  }
+}
